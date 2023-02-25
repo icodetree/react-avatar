@@ -1,4 +1,4 @@
-# Getting Started with Create React Avatar
+# Create React Avatar
 
 <img src="./public/capture.jpg" width="300px" height="300px">
 
