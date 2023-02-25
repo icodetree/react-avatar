@@ -1,9 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create React Avatar
 
 <img src="./public/capture.jpg" width="300px" height="300px">
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+Project to create React Avatar.
+
 
 ## Available Scripts
 
