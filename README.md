@@ -2,7 +2,7 @@
 
 <img src="./public/capture.jpg" width="300px" height="300px">
 
-Project to create React Avatar...
+Project to create React Avatar..
 
 ## Available Scripts
 
